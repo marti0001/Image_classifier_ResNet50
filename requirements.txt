@@ -1,0 +1,9 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pillow>=9.0.0
+numpy>=1.22.0
+tensorflow>=2.8.0
+uvicorn[standard]
+joblib
+jinja2
+python-multipart
