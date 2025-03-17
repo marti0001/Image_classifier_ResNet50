@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://source.unsplash.com/1200x300/?artificial,intelligence,technology" alt="Image Classification Banner" />
-</p>
-
 # 🖼️ Image Classification with ResNet50 – FastAPI Web App
 
 This project is a **FastAPI-powered web application** that allows users to **upload images** and classify them using the **ResNet50 deep learning model** pre-trained on the **ImageNet dataset**. The app processes images, makes **real-time predictions**, and displays the **most likely class** along with its **confidence score**.  
